@@ -1,0 +1,39 @@
+
+p {
+    font-weight: bolder;
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+.tabela-vestuario {
+    width: 20%;
+    margin: 10px;
+}
+
+.tabela-moveis-eletronicos {
+    width: 15%;
+    margin: 7px;
+}
+
+th, td {
+    padding: 10px;
+}
+
+.vestuario {
+    background-color: #BB86FC;
+    color: white;
+}
+
+.moveis-eletronicos {
+    background-color: #00C4B4;
+    color: white;
+}
+
+.descricao-produto {
+    background-color: #424250;
+    color: white;
+}
